@@ -49,6 +49,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App\Beverage.cs" />
+    <Compile Include="App\BeverageIngredient.cs" />
+    <Compile Include="App\CaramelMacchiatto.cs" />
+    <Compile Include="App\Flavor.cs" />
+    <Compile Include="App\Frappuccino.cs" />
+    <Compile Include="App\Latte.cs" />
+    <Compile Include="App\Size.cs" />
+    <Compile Include="App\WhipCream.cs" />
+    <Compile Include="App\WithDiscount.cs" />
+    <Compile Include="App\WithFlavor.cs" />
+    <Compile Include="App\WithSoyMilk.cs" />
+    <Compile Include="App\WithWhipCream.cs" />
     <Compile Include="Tests\CustomizedBeverageUnitTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
